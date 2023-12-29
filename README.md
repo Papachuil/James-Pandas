@@ -1,2 +1,2 @@
 # James-Pandas
-Data manipulation with Python in Pandas/Numpy libraries 
+Data Science projects with Python in Jupyter/Pandas libraries 
